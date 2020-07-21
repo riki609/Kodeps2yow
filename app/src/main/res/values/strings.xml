@@ -1,0 +1,582 @@
+<resources>
+    <string name="app_name">Kodeps2yow</string>
+
+    <string name="uls_nsfcarbon">
+        Efek : Castrol cash\n
+        Kode : bawah, Atas, Kiri, bawah, kanan, Atas, kotak, segitiga\n
+        Efek : Nitro Tanpa Batas\n
+        Kode : Kiri, atas, Kiri, bawah, kiri, Bawah, Kanan, kotak\n
+        Efek : Kru tanpa Batas\n
+        Kode : bawah, atas, atas, kanan, kiri, kiri, kanan, kotak.\n
+        Efek : Membuka NFS:C Vinyl\n
+        Kode : kanan, atas, bawah, atas, bawah, kiri, kanan, kotak.\n
+        Efek : Membuka Cardboard Box dan Driver Vinyl\n
+        Kode : atas, atas, bawah, bawah, bawah, bawah, atas, kotak.\n
+    </string>
+    <string name="uls_nfsmostwanted">
+        Semua Mobil $100,000:\n
+        R1, L1, atas, bawah, atas, bawah, atas, bawah\n
+        Back Room (Transmission, Engine, Tires, dan Body Kits):\n
+        R1, L1, L2, R2, atas, bawah, bawah, atas\n
+        Bounty 4.999.999:\n
+        L1, R1, atas, bawah, atas, bawah, atas, bawah\n
+        Menyelesaikan Bounty dan Milestons:\n
+        Atas, bawah, kiri, kanan, bawah\n
+        Burger King Challenge:\n
+        Atas, bawah, atas, bawah, kiri, kanan, kiri, kanan\n
+        Castrol Syntec Ford GT:\n
+        Kiri, kanan, kiri, kanan, atas, bawah, atas, bawah\n
+        Membuka Ford GT:\n
+        Atas, bawah, atas, bawah, kiri, kanan, kiri, kanan\n
+        Membuka Porsche Cayman:\n
+        L1, R1, R1, R1, kanan, kiri, kanan, bawah\n
+        Membuka Junkman Engine Part:\n
+        Atas, atas, bawah, bawah, kiri, kanan, atas, bawah\n
+        Membuka Semua Mobil:\n
+        R1, O ,O, O, R1, R2, L2, L1, atas, bawah, L1, L1, L1\n
+        Semua Mobil Musuh:\n
+        O, O, atas ,atas, bawah, atas, L1, R1, atas, bawah\n
+        Shop Marker:\n
+        Atas ,atas, bawah,bawah, kiri, kanan, atas, bawah.\n
+        Tamat: \n
+        Kiri, kanan, atas ,atas,atas, bawah ,bawah,bawah,bawah, kiri ,kiri, kanan ,kanan,kanan, atas, bawah.\n
+        </string>
+    <string name="uls_nfsprostreet">
+        L1iS97A1:\n
+        $8.00\n
+        1MA9X99:\n
+        $2.000\n
+        W2iOLLO1:\n
+        $4,000\n
+        1Mi9K7E1:\n
+        $10,000\n
+        REGGAME:\
+        $10,000\n
+        SAFETYNET:\n
+        5 Repair token.\n
+        CASTROLSYNTEC:\n
+        Castrol syntec vinyl.\n
+        HORSEPOWER:\n
+        Dogde Viper SRT10 (Speed Race)\n.
+        WORLDSLONGESTLASTING:\n
+        Dogde Viper SRT10 dalam Garasi.\n
+        CASHMONEY:\n
+        Tambahan $10.000.\n
+        ENERGIZERLITHIUM:\n
+        Dafat Bonus Stiker vinyl.\n
+        ZEROZEROZERO:\n
+        coke Zero Gold GTI dicarrer Mode.\n
+        MITSUBISHIGOFAR:\n
+        Mitsubisi lancer Evolution si carrer mode.\n
+        UNLOCKALLTHINGS:\n
+        Membuka Peta, Dogde Viper SRT10,\n
+        2004 Pontiac GTO Chevrolet Cobalt SS, Nissan 240SX, Stage 4 part.\n
+        ITSABOUTYOU:\n
+        Membuka Vinyl Progresif.\n
+    </string>
+    <string name="uls_bornout">
+        MEMBUKA MOBIL MODIFIKASI :\n
+        Modified Compact:Mendapatkan emas di Waterfront’s Face-Off
+        Modified Coupe:Mendapatkan emas di Alpine’s Race
+        Modified Muscle:Mendapatkan emas di Mountain Parkway’s Face-Off1
+        Modified Sports:Mendapatkan emas di Continental Run’s Face-Off2
+        Modified Super:Mendapatkan emas di Golden City’s Face-Off
+        MEMBUKA SPESIAL EVENTS:\n
+        Alpine : Mendapatkan emas di Silver Lake’s Eliminator
+        Continental Run : Mendapatkan emas di Continental Run’s Race 2
+        Dockside : Mendapatkan emas di Waterfront’s Burning Lap
+        Golden City : Mendapatkan emas di Lakeside Getaway’s Race
+        \nMEMBUKA TUNED CARS:\n
+        Tuned Compact : Mendapatkan emas di Downtown’s Race 1
+        Tuned Coupe : Mendapatkan emas di Vineyard’s Face-Off
+        Tuned Muscle : Mendapatkan emas di Kings of the Road’s Race
+        \MEMBUKA CIRCUIT RACER:\n
+        Euro Circuit Racer : Mengumpulkan semua trofi takedown
+        Oval Racer Special : Mengumpulkan semua takedown signature
+        \nMEMBUKA COMPACT CARS:\n
+        Assassin Compact : Mengumpulkan 15 takedown
+        Compact DX : Mengumpulkan 4 medali emas
+        \nMEMBUKA COUPE CARS:\n
+        Assassin Coupe : Mengumpulkan 60 takedown
+        Coupe DX : Mengumpulkan 18 medali emas
+        Coupe Prototype : Mendapatkan emas di Continental Run’s Face-Off 1
+        \nMEMBUKA MUSCLE CARS:
+        ssassin Muscle : Mengumpulkan 30 takedown
+        Custom Muscle : Mengumpulkan 25.000 poin Burnout
+        Dominator Muscle : Mendapatkan emas di Lakeside Getaway’s Face-Off 2
+        \nMEMBUKA SPORT CARS:\n
+        Assassin Sports : Mengumpulkan 100 takedown
+        Custom Sports : Mengumpulkan 100.000 poin Burnout
+        Dominator Sports : Mendapatkan emas di Alpine’s Face-Off
+        \nMEMBUKA SPESIAL CARS:
+        Classic Hotrod : Mengumpulkan semua postcards special event
+        Custom Coupe Ultimate : Mengumpulkan semua medali emas crash
+        \nMEMBUKA SUPER SERIES CARS:\n
+        Assassin Super : Mengumpulkan 150 takedown
+        Custom Super : Mengumpulkan 200.000 poin Burnout
+        Dominator Super : Mendapatkan emas di Dockside’s Face-Off
+        Modified Super : Mendapatkan emas di Golden City’s Face-Off
+    </string>
+    <string name="uls_rumble">
+        \nBuckshot: UBTCKSTOH\n
+        \nGamecus: BSUIGASUM\n
+        \nHigh Roller: HGIROLREL\n
+        \nRedneck Rocket: KCEROCTEC\n
+        \nRevolution: PTOATRTO1\n
+        \nRoad Trip: ABOGOBOGA\n
+        \nSporticus: OPSRTISUC\n
+        \nStinger: AMHBRAAMH\n
+        \nVan Itty: VTYANIYTT\n
+        \nVortex: 1AREXT1AR\n
+        \nXXS Tomcat: NALDSHHSD\n
+        \nInterceptor: CDAAPTN1A\n
+        \nThor: THTORHROT\n
+    </string>
+    <string name="uls_downhill">
+        \nCheat Uang Instant $2000:\n
+        Kanan, Segitiga, Segitiga, Kiri
+        \nCheat Menambah Adrenalin:\n
+        Bawah, Kiri, Kiri, Kanan
+        \nCheat Selalu Stocked:\n
+        Bawah, Kotak, Kotak, Kiri, Lingkaran
+        \nCheat Anti Gravitasi:\n
+        Bawah, Segitiga, Kotak, Kotak, Atas
+        \nCheat Bebas Serangan:\n
+        Kiri, Kotak, Lingkaran, Kotak, Kiri
+        \nCheat Upgrade Serangan:\n
+        Atas, Bawah, Kiri, Kiri, Kanan
+        \nCheat Mengembalikan Energi:\n
+        Bawah, Kanan, Kanan, Kiri, Kiri
+        \nCheat Uang Gratis:\n
+        Kanan, Atas, Atas, Lingkaran, Lingkaran, Kotak
+        \nCheat Botol Tak Terhingga:\n
+        Atas, X, Kiri, Kiri, Lingkaran, Lingkaran
+        \nCheat Mega Flip (Pelangi):\n
+        Kanan, Atas, Atas, Kanan, Kanan, Kotak
+        \nCheat Speed Freak:\n
+        Bawah, Segitiga, Kanan, Kanan, Kotak
+        \nCheat Stoke Trick Meter:\n
+        Bawah, Kiri, Kiri, Kanan, Kanan
+        \nCheat Super Bounce:\n
+        Kiri, Kotak, X, Atas, Segitiga
+        \nCheat Super Bunny Hop:\n
+        Atas, X, Kiri, Kotak, Atas
+        \nCheat Energi Tak Terhingga\n
+        Bawah, Segitiga, Kiri, Kiri, Kotak
+        \nCheat Buka Semua Karakter:\n
+        Bawah, Atas, Atas, Bawah, Bawah, Atas, Atas
+        \nCheat Upgrade Botol:\n
+        Atas, Bawah, Kiri, Kiri, Kanan, Kanan
+    </string>
+    <string name="uls_gta">
+        \nBadut\n
+        Segitiga, segitiga, L1, kotak, kotak, bulat, kotak, bawah, bulat
+        \nElvis\n
+L1, bulat, segitiga, L1, L1, kotak, L2, atas, bawah, kiri
+\nYakuza\n
+X, X, bawah, R2, L2, bulat, R1, bulat, kotak
+\nManusia setengah dewa\n
+Bawah, X, kanan, kiri, kanan, R1, kanan, bawah, atas, segitiga
+\nUang, darah, tameng\n
+R1, R2, L1, X, kiri, bawah, kanan, atas, kiri, bawah, kanan, atas
+\nLompat tinggi\n
+Atas, atas, segitiga, segitiga, atas, atas, kiri, kanan, kotak, R2, R2
+\nPukulan maut\n
+Atas, kiri, X, segitiga, R1, bulat, bulat, bulat, L2
+\nBernafas dalam air\n
+Bawah, kiri, L1, bawah, bawah, R2, bawah, L2, bawah
+\nSenjata 1\n
+R1, R2, L1, R2, kiri, bawah, kanan, atas, kiri, bawah, kanan, atas
+\nSenjata 2\n
+R1, R2, L1, R2, kiri, bawah, kanan, atas, kiri, bawah, bawah, kiri
+\nSenjata 3\n
+R1, R2, L1, R2, kiri, bawah, kanan, atas, kiri , bawah, bawah, bawah
+\nDua senjata\n
+Bawah, kotak, X, kiri, R1, R2, kiri, bawah, bawah, L1, L1, L1
+\nPeluru tak terbatas\n
+L1, R1, kotak, R1, kiri, R2, R1, kiri, kotak, bawah, L1, L1
+\nRekrut\n
+Bawah, kotak, atas, R2, R2, atas, kanan, kanan, atas
+\nBunuh diri\n
+Kanan, L2, bawah, R1, kiri, kiri, R1, L1, L2, L1
+\nKurus\n
+Segitiga, atas ,atas, kiri, kanan, kotak, bulat, kanan
+\nGendut\n
+Segitiga, atas ,atas, kiri, kanan, kotak, bulat, bawah
+\nKekar\n
+Segitiga, atas, atas, kiri, kanan, kotak, bulat, kiri
+\nDikelilingi wanita penghibur\n
+Kotak, kanan, kotak, kotak, L2, X, segitiga, X, segitiga
+\nSuasana pantai\n
+Atas, atas, bawah, bawah, kotak, bulat, L1, R1, segitiga, bawah
+\nParasut\n
+Kiri, kanan, L1, L2, R1, R2, R2, atas, bawah, kanan, L1
+\nTrafik agresif\n
+R2, bulat, R1, L2, kiri R1, L1, R2, L2
+\nRambu lalu lintas hijau\n
+Kanan, R1, atas, L2, L2, kiri, R1, L1, R1, R1
+\nWaktu berjalan cepat\n
+Bulat, bulat, L1, kotak, L1, kotak, kotak, kotak, L1, segitiga, bulat, segitiga
+\nGerakan cepat\n
+Segitiga, atas, kanan, bawah, L2, L1, kotak
+\nGerakan lambat\n
+Segitiga, atas, kanan, bawah, kotak, R2, R1
+\nMembidik sambil mengemudi\n
+Atas, atas, kotak, L2, kanan, x, R1, bawah, R2, bulat
+\nSkill mengemudi maksimal\n
+Kotak, L2, X, R1, L2, L2, kiri, R1, kanan, L1, L1, L1
+\nRespek maksimal\n
+L1, R1, segitiga, bawah, R2, X, L1, atas, L2, L2, L1, L1
+        \nNascar 1\n
+bawah, R1, bulat, L2, L2, X, R1, L1, kiri, kiri
+\nNascar 2\n
+R1, bulat, R2, kanan, L1, L2, X, X, kotak, R1
+\nNascar 3\n
+R2, L1, bulat, kanan, L1, R1, kanan, atas, bulat, R2
+\nMobil golf\n
+Bulat, L1, atas, R1, L2, X, R1, L1, bulat, X
+\nBuldoser\n
+R2, L1, L1, kanan, kanan, atas, atas, X, L1, kiri
+\nMobil sheriff\n
+Atas, kanan, kanan, L1, kanan, atas, kotak, L2
+\nMobil orang kaya\n
+R2, atas, L2, kiri, kiri, R1, L1, bulat, kanan
+\nTanker\n
+R1, atas, kiri, kanan, R2, atas, kanan, kotak, kanan, L2, L1, L1
+\nMobil romero\n
+Bawah, R2, bawah, R1, L2, kiri, R1, L1, kiri, kanan
+\nDoomsday\n
+L2, kanan, L1, segitiga, kanan, kanan, R1, L1, kanan, L1, L1, L1
+\nTruk sampah\n
+Bulat, R1, bulat, R1, kiri, kiri, R1, L1, bulat, kanan
+\nMotor roda empat\n
+Kiri, kiri, bawah, bawah, atas, atas, kotak, bulat, segitiga, R1, R2
+\nBoat amphibi\n
+Segitiga, segitiga, kotak, bulat, X, L1, L2, bawah, bawah
+\nMobil monster\n
+Kanan, atas, R1, R1, R1, bawah, segitiga, segitiga, X, bulat, L1, L1
+\nTank\n
+Bulat, bulat, L1, bulat, bulat, bulat, L1, L2, R1, segitiga, bulat, segitiga
+\nHelikopter tempur\n
+Bulat, X, L1, bulat, bulat, L1, bulat, R1, R2, L2, L1, L1
+\nPesawat jet\n
+Segitiga, segitiga, kotak, bulat, X, L1, L1, bawah, atas
+\nPesawat stunt\n
+Bulat, atas, L1, L2, bawah, R1, L1, L1, kiri, kiri, X, segitiga
+\nJetpack\n
+kiri, kanan, L1, L2, R1, R2, atas, bawah, kiri, kanan
+    </string>
+    <string name="uls_bully">
+        \nMembuka Semua Baju\n
+        L1, L1, R1, L1, L1, L1, R1, R1
+\nMembuka Semua Jurus GYM\n
+        Tahan L1 dan tekan atas, kiri, bawah, bawah, segitiga, kotak, X, X
+\nMembuka Semua Jurus Bertarung\n
+        Tahan L1 dan tekan atas, kiri, bawah, kanan, segitiga, kotak, X, bulat
+\nDarah Penuh\n
+        Tahan L1 dan tekan R2, R2, R2
+\nMembuka Senjata\n
+        Tahan L1 dan tekan atas, atas, atas, atas
+\nPeluru Tak Terbatas\n
+        Cheat Berteman Dengan Semua Orang
+\nUang\n
+        Tahan L1 dan tekan segitiga, kotak, bulat, X
+    </string>
+    <string name="uls_lego">
+        \n(ZAQ637)\n
+        Membuka Alfred
+\n(9LRGNB)\n
+        Skor kamu selalu dikalikan
+\n(TL3EKT)\n
+        Area Effect (Baju Sonic)
+\n(N8JZEK)\n
+        Memakai Lapisan Armor (Baju Demolition)
+\n(KNTT4B)\n
+        Bat-Tank
+\n(JKR331)\n
+        Batgirl
+\n(XFP4E2)\n
+        Bats (Baju Sonic)
+\n(RAFTU8)\n
+        Beep Beep
+\n(LEA664)\n
+        Private Jet milik Bruce Wayne’s
+\n(M1AAWW)\n
+        Catwoman (Classic)
+\n(HPL826)\n
+        Motornya si Catwoman
+\n(DY13BD)\n
+        Character Studs
+\n(HJK327)\n
+        Badut Jahat
+\n(TQ09K3)\n
+        Decoy (Baju Technology)
+\n(GEC3MD)\n
+        Disguise
+\n(ML3KHP)\n
+        Menambah Nyawa
+\n(EWAW7W)\n
+        Extra Toggle
+\n(JRBDCB)\n
+        Batarang menjadi cepat (All Suits)
+\n(GHJ2DY)\n
+        Cepat dalam membangun
+\n(RM4PR8)\n
+        Fast Grapple (Semua Baju)
+\n(EVG26J)\n
+        Fast Pieces (Baju Penarik)
+\n(ZOLM6N)\n
+        Berjalan cepat (Baju Magnet)
+\n(HGY748)\n
+        Fishmonger
+\n(D8NYWH)\n
+        Batarang api (Baju Heat Protection (Pelindung panas)
+\n(XPN4NG)\n
+        Batarang Beku (Baju Air)
+\n(XVK541)\n
+        Cewek Beku
+\n(DUS483)\n
+        Truk Sampah
+\n(BBD7BY)\n
+        GlideSlam (Glide Suit)
+\n(GCH328)\n
+        Goon Helicopter
+\n(CHP735)\n
+        Harbor Helicopter
+\n(RDT637)\n
+        Harley Quinn’s Hammer Truck
+\n(KLKL4G)\n
+        Ice Rink
+\n(JXUDY6)\n
+        Immune to Freeze
+\n(WYD5CP)\n
+        Cheat abadi/tak terkalahkan
+\n(UTF782)\n
+        Joker Goon
+\n(YUN924)\n
+        Joker Henchman
+\n(JCA283)\n
+        Mad Hatter
+\n(HS000W)\n
+        Mad Hatter’s Glider
+\n(M4DM4N)\n
+        Mad Hatter’s Steamboat
+\n(NYU942)\n
+        Man-Bat
+\n(MKL382)\n
+        Military Policeman
+\n(ZXGH9J)\n
+        Minikit Detector
+\n(TNTN6B)\n
+        More Detonators (Demolition Suit)
+\n(ICYICE)\n
+        Mr. Freeze’s Iceberg
+\n(BCT229)\n
+        Mr. Freeze’s Kart
+\n(NKA238)\n
+        Penguin Goon
+\n(BTN248)\n
+        Penguin Goon Submarine
+\n(BJH782)\n
+        Penguin Henchman
+\n(KHJ544)\n
+        Piece Detector (Attracto Suit)
+\n(GTB899)\n
+        Poison Ivy Goon
+\n(LJP234)\n
+        Police Bike
+\n(PLC999)\n
+        Police Boat
+\n(KJL832)\n
+        Police Car
+\n(CWR732)\n
+        Police Helicopter
+\n(HKG984)\n
+        Police Marksman
+\n(JRY983)\n
+        Police Officer
+\n(VJD328)\n
+        Police Watercraft
+\n(MMN786)\n
+        Power Brick Detector
+\n(HJH7HJ)\n
+        Regenerate Hearts
+\n(CRY928)\n
+        Riddler Goon
+\n(XEU824)\n
+        Riddler Henchman
+\n(HAHAHA)\n
+        Riddler’s Jet
+\nTTF453)\n
+        Robin’s Submarine
+\n(HTF114)\n
+        S.W.A.T.
+\n(NAV592)\n
+        Sailor
+\n(JFL786)\n
+        Scientist
+\n(PLB946)\n
+        Security Guard
+\n(YK4TPH)\n
+        Silohuettes
+\n(THTL4X)\n
+        Sonic Pain (Sonic Suit)
+\n(LK2DY4)\n
+        Stud Magnet
+\n(JUK657)\n
+        Mobil van si Joker
+\n(EFE933)\n
+        Two-Face’s Armored Truck
+\n(18HW07)\n
+        Skor x10
+\n(N4NR3E)\n
+        Skor x2
+\n(CX9MAT)\n
+        Skor x4
+\n(MLVNF2)\n
+        Skor x6
+\n(WCCDB9)\n
+        Skor x8
+\n(DWR243)\n
+        Zoo Sweeper
+    </string>
+    <string name="uls_mortal">
+        \nCheat Mortal Kombat Shaolin Monks PS2 Unlock Karakter dan Mode Arcade\n
+
+        \n(Mendapatkan Scorpion)\n
+        Tahan L2, Kotak, Atas, L1, R1, Kiri, Kanan, Kotak, Lepas L2
+        \n(Mendapatkan Subzero)\n
+        Tahan L2, Kotak, Bawah, Atas, L1, L1, Atas, Kotak, Lepas L2
+        \n(Membuka Mode Arcade)\n
+        Tahan L2, Kotak, Atas, Bawah, Kanan, Kiri, R2, Kotak
+        \n\n
+        \n(Cheat Fatality Liu Kang)\n
+        \nFatality 1\n
+        Bawah, Kiri, Kanan, Atas, Kotak
+\nFatality 2\n
+        Bawah, Kiri, Atas, Kanan, Kotak
+\nFatality 3\n
+        Kiri, Atas, Atas, Kanan, Kotak
+\nFatality 4\n
+        Kiri, Kanan, Bawah, Bawah, Kotak
+\nFatality 5\n
+        Atas, Kanan, Bawah, Kiri, Kotak
+\nFatality 6\n
+        Bawah, Kanan, Kiri, Kiri, Kotak
+\nFatality 7\n
+        Kiri, Kiri, Kiri, Atas, Kotak
+\nFatality 8\n
+        Kanan, Atas, Kanan, Atas, Kotak
+\nFatality 9\n
+        Kanan, Kiri, Bawah, Bawah, Kotak
+\nMutality 1\n
+        Atas, Bawah, Atas, Bawah, Segitiga
+\nMutality 2\n
+        Kiri, Kanan, Atas, Atas, Segitiga
+\nBrutality 1\n
+        Kanan, Atas, Bawah, Bawah, Bulat
+\n\n
+        \n(Cheat Fatality Kung Lao)\n
+\nFatality 1\n
+        Kiri, Atas, Kanan, Kanan, Kotak
+\nFatality 2\n
+        Kanan, Kanan, Kanan, Kanan, Kotak
+\nFatality 3\n
+        Atas, Atas, Atas, Kanan, Kotak
+\nFatality 4\n
+        Atas, Atas, Atas, Bawah, Kotak
+\nFatality 5\n
+        Kiri, Kanan, Kiri, Bawah, Kotak
+\nFatality 6\n
+        Kiri, Kanan, Kiri, Kiri, Kotak
+\nFatality 7\n
+        Atas, Atas, Kiri, Atas, Kotak
+\nFatality 8\n
+        Atas, Bawah, Atas, Kanan, Kotak
+\nFatality 9\n
+        Kanan, Kanan, Atas, Atas, Kotak
+\nMutality 1\n
+        Atas, Kanan, Bawah, Kiri, Segitiga
+\nMutality 2\n
+        Kiri, Kanan, Kanan, Kiri, Segitiga
+\nBrutality 1\n
+        Kiri, Kiri, Atas, Atas, Bulat
+        \n\n
+        \n(Cheat Fatality Scorpion)\n
+        \nFatality 1\n
+        Atas, Atas, Bawah, Bawah, Kotak
+\nFatality 2\n
+        Kanan, Bawah, Kanan, Kanan, Kotak
+\nMultality 1\n
+        Bawah, Bawah, Bawah, Atas, Segitiga
+\nBrutality 1\n
+        Kanan, Kiri, Kanan, Kanan, Bulat
+        \n\n
+        \n(Cheat Fatality Sub-Zero)\n
+        \nFatality 1\n
+        Kanan, Bawah, Kanan, Kanan, Kotak
+\nFatality 2\n
+        Kiri, Kiri, Bawah, Kanan, Kotak
+\nFatality 3\n
+        Kanan, Kanan, Bawah, Kanan, Kotak
+\nMultality 1\n
+        Atas, Atas, Bawah, Atas, Segitiga
+\nBrutality 1\n
+        Atas, Bawah, Kiri, Atas, Bulat
+        \n
+        \n(Cheat Fatality Reptile)\n
+        \nFatality 1\n
+        Kiri, Kanan, Kiri, Bawah, Kotak
+\nFatality 2\n
+        Kiri, Kiri, Kiri, Bawah, Kotak
+\nFatality 3\n
+        Atas, Atas, Kanan, Kiri, Kotak
+        \n
+        \n(Cheat Fatality Johnny Cage)\n
+        \nFatality 1\n
+        Bawah, Bawah, Kanan, Kanan, Kotak
+\nFatality 2\n
+        Kanan, Kanan, Kanan, Kanan, Kotak
+        \n
+        \n(Cheat Fatality Kitana)\n
+        \nFatality 1\n
+        Kiri, Kiri, Kanan, Kanan, Kotak
+\nFatality 2\n
+        Kanan, Kanan, Kanan, Kanan, Kotak
+        \n
+        \n(Cheat Fatality Baraka)\n
+        \nFatality 1\n	Bawah, Kiri, Kanan, Kanan, Kotak
+\nFatality 2\n
+        Kiri, Kiri, Kiri, Kiri, Kotak
+        </string>
+    <string name="uls_godofwar">
+        \n(HD mode)\n:
+        L1,L2,L3,O,kotak , Kode ini dimasukan sebelum tulisan
+        “Sony Computer Entertainment Presents” tampil di layar.
+        Huruf-huruf pada layar akan berubah ungu jika dilakukan dengan benar.
+        \n
+        \n(God of War II Unlockables)\n
+    Hercules:Menyelesaikan permainan pada mode Titan
+        \n(Dark Odyssey :)\n
+        Menyelesaikan permainan pada modus Gods
+        \n(General Kratos :)\n
+Kumpulkan 20 Cyclops mata. Harus membunuh mereka dengan konteks-sensitif bergerak, Arti tombol O.
+        \n(Athena :)\n Menyelesaikan permainan pada mode Titan
+        \n(Blade of Olympus :)\n
+Menyelesaikan permainan, Kemudian memulai New Game.
+    </string>
+    <string name="uls_resident">
+        \n(Full Health)\n
+        (R1, R2, L1, L2, X, X, Segitiga)
+        \n(Infinite Ammo)\n
+        (X, R2, R2, L1, L2, R1))
+        \n(Ammo 999)\n
+        (R1+R2, lalu tekan R3+L3)
+        \n(Adventure with Leon)\n
+        (Segitiga, Kotak, R1, X)
+        \n(Ashley Use Shotgun)\n
+        (L1+L2+R1, lalu tekan R2)
+    </string>
+
+
+</resources>
