@@ -12,6 +12,13 @@ public class Kode_Adventure extends AppCompatActivity {
     ImageView back;
     LinearLayout Gta,mortal,bully,godofwar,resident4,lego;
 
+     /*
+    Nama : Riki Ahmad Fauzi
+    Kelas : IF4
+    Nim : 10117153
+     */
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

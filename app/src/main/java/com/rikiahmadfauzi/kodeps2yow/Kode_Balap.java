@@ -12,6 +12,12 @@ public class Kode_Balap extends AppCompatActivity {
     ImageView back;
     LinearLayout NeedForSpeedCarbon, NeedForSpeedMostWanted, NeedForSpeedProStreet,
             Bornout, RumbleRacing, Downhill;
+     /*
+    Nama : Riki Ahmad Fauzi
+    Kelas : IF4
+    Nim : 10117153
+     */
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

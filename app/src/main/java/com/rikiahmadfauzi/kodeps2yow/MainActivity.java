@@ -11,6 +11,12 @@ public class MainActivity extends AppCompatActivity {
 
     private Button button;
 
+     /*
+    Nama : Riki Ahmad Fauzi
+    Kelas : IF4
+    Nim : 10117153
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

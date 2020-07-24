@@ -11,6 +11,12 @@ public class SplashScreen extends AppCompatActivity {
 
     //4000=4 detik
 
+     /*
+    Nama : Riki Ahmad Fauzi
+    Kelas : IF4
+    Nim : 10117153
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,7 +28,7 @@ public class SplashScreen extends AppCompatActivity {
             public void run() {
 
                 //setelah loading maka akan langsung berpindah ke main activity
-                Intent main = new Intent(SplashScreen.this, MainActivity.class);
+                Intent main = new Intent(SplashScreen.this, Login.class);
                 startActivity(main);
                 finish();
 

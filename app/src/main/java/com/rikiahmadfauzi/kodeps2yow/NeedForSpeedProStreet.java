@@ -10,6 +10,12 @@ import androidx.appcompat.app.AppCompatActivity;
 public class NeedForSpeedProStreet  extends AppCompatActivity {
     ImageView back;
 
+     /*
+    Nama : Riki Ahmad Fauzi
+    Kelas : IF4
+    Nim : 10117153
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

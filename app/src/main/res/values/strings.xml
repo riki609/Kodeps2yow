@@ -577,6 +577,206 @@ Menyelesaikan permainan, Kemudian memulai New Game.
         \n(Ashley Use Shotgun)\n
         (L1+L2+R1, lalu tekan R2)
     </string>
-
-
+<string name="uls_tekken">
+    \n1. Bermain Sebagai Jinpachi\n
+    R1, R2, L1, L2, Kiri, Kiri, Kanan, Bawah, Kiri, Atas
+    \n
+    \n2. Bermain Sebagai Devils Kazuya\n
+    Pada judul utama dari permainan tekan R1, L1, Atas, Atas, Bawah, Bawah,
+    Start… Anda akan mendengar tawa dari Kazuya.
+    \n
+    \n3. Bermain Sebagai Armor King\n
+    dan tekan R2, R2, L2, L2, X, X, Segitiga,
+    Square dan Anda akan mendengar raungan keras dari Armor King.
+    \n
+    \n4. Mendapatkan Uang\n
+    masuk ke menu dan tekan: R2, R2, L1, L2, X, X, Kotak, Segitiga.
+    \n
+    \n5. Bermain Sebagai Michele\n
+    R1, R2, L1, L2, atas, bawah, kiri, kanan, atas, bawah, kiri, kanan, start.
+    Anda akan mendengar Julia mengucapkan terima kasih untuk membawa ibu saya kembali (bhs. Inggris).
+    \n
+    \n6. Modus Invisability\n
+    R1, L1, R2, L2, X, X, Bulat, Segitiga.
+    \n
+    \n7. Bermain Sebagai Jin Kazama\n
+    R2, R2, R2, L1, L2, Bulat3*, X, Bulat, Kotak, Segitiga
+    dan kamu akan mendengar penantang baru off dari tekken 3
+</string>
+<string name="uls_nfsunder">
+    \n$1000 in career. RX-8 and Skyline in Quick Race\n
+    Kiri, Kiri, Kanan, Kotak, Kotak, Kanan, L1, R1
+    \n
+    \n$200 in career\n
+    	Atas, Atas, Atas, Kiri,, R1, R1, R1, Bawah
+    \n
+    \nAll Circuit Tracks\n
+    Bawah, R1, R1, R1, R2, R2, R2, Kotak
+    \n
+\nBurger King vinyl\n
+    Atas, Atas, Atas, Atas, Bawah, Atas, Atas, Kiri
+    \n
+\nUnique Vinyl\n
+    Bawah, Atas, Bawah, Kiri, L1, L1, L1, Bawah
+    \n
+\nUnlocks A Hummer H2 Capone\n
+    Atas, Kiri, Atas, Atas, Bawah, Kiri, Bawah, Kiri
+    \n
+\nUnlocks D3 Pontiac GTO\n
+    Atas, Bawah, Kanan, Atas, Kiri, Bawah, Kanan, Kanan
+    \n
+\nUnlocks the Best Buy car Vinyl\n
+    Atas, Bawah, Atas, Bawah, Bawah, Atas, Kanan, Kiri
+    \n
+\nUnlocks the Chingy Lincoln Navigator\n
+    Atas, Kanan, Atas, Atas, Bawah, Kanan, Bawah, Kanan
+    \n
+\nUnlocks the ShineStreet Lexus IS300\n
+    Atas, Bawah, Kiri, Atas, Kiri, Atas, Kanan, Kiri
+    \n
+\nUnlock Performance Level 1\n
+    L1, R1, L1, R1, Kiri, Kiri, Kanan, Atas
+    \n
+\nUnlock Performance Level 2\n
+    R1, R1, L1, R1, Kiri, Kanan, Atas, Bawah
+    \n
+\nUnlock Visual Level 1\n
+    R1, R1, Atas, Bawah, L1, L1, Atas, Bawah
+    \n
+\nUnlock Visual Level 2\n
+    L1, R1, Atas, Bawah, L1, Atas, Atas, Bawah
+</string>
+<string name="uls_devil">
+    \nUnlock Almost Everything\n
+    Pada menu tahan L1 + L2 + R1 + R2 kemudian memutar stick analog kiri.
+    Anda di sini akan suara yang mengatakan "Devil May Cry" dan semua mode, kostum, d
+    an galeri akan dibuka. Perhatikan bahwa Anda masih harus menyelesaikan tahapan dan membeli keterampilan Anda normal.
+    Kode ini diverifikasi untuk versi AS dan Jepang saja.
+    \n
+    \nCharacters\n
+    Tekan R1 atau L1 pada misi pilih layar untuk mendapatkan karakter yang berbeda.
+    \n
+    \nClip Reloading\n
+    Tekan L2 setelah menembakkan lambat untuk reload senjata (yaitu, senapan) dan film itu kembali ke api lagi.
+    Hal ini sedikit lebih cepat daripada menunggu senjata untuk reload.
+</string>
+    <string name="uls_ultimate">
+        \nCheat Mode:
+Masuk ke menu Pilihan, dan masukkan kode berikut dalam
+Pengontrol Pengaturan Layar:\n
+        \n
+        \nCode:\n
+        \nMembuka semua Karakter:\n
+        Kanan, Bawah, Kanan, Bawah, Kiri, Atas, Kiri, Kanan
+        \n
+        \nMembuka semua Sampul Komik\n
+        Kiri, Kiri, Kanan Kiri, Atas, Kiri, Kiri, Bawah.
+        \n
+        \nMembuka semua Konsep art\n
+        Bawah, Bawah, Bawah, Atas, Bawah, Atas, Kiri, Kiri
+        \n
+        \nMembuka semua Tengara\n
+        Atas, Kanan, Bawah, Kiri, Bawah, Atas, Kanan, Kiri
+        \n
+        \nAktifkan Arachnoman:\n
+        Selesai 90 Acara City, Kumpulkan 90 Token dan Finish 20 Tours Tempur
+        \n
+        \nAktifkan Parker Hoodie:\n
+        Selesai 75 Acara City, Kumpulkan 75 Token
+        \n
+        \nAktifkan Peter Parker:\n
+        Selesai 50 Acara City, Kumpulkan 50 Token dan Win Ras 5th melawan Johnny Storm
+        \n
+        \nAktifkan Spidey Gulat:\n
+        Selesai 30 Acara Kota dan Kumpulkan 30 Token
+        \n
+        \nAktifkanMenu JedaOpsiBeralih Pahlawan:\n
+        Selesai semua Story Missions
+        \n
+        \nAktifkan Symbiote Spider-Man (baju hitam):\n
+        Selesai 100 Acara City, Dapatkan Token semua, dan menyelesaikan semua wisata Tempur dan ras
+        \n
+        \nAktifkan Races Venom:\n
+        Selesai semua Story Missions
+        \n
+        \nKesulitan membuka Drive:\n
+        Selesai 20 Acara City dan menyelesaikan “Kelas Trip” Bab 8.
+        \n
+        \nAktifkan Kesulitan Sedang:\n
+        Selesai 10 Acara City dan menyelesaikan “yg tak dpt dikalahkan” Bab 6.
+        \n
+        \nSulit Tempur Tours Kesulitan + Bonus Kesehatan:\n
+        Selesai 12 wisata Tempur Menengah.
+        \n
+        \nSedang Memerangi Tours Kesulitan + Bonus Kesehatan:\n
+        Selesai 8 wisata Tempur Mudah Setelah Bab 4 Neraka dari sebuah Mess.
+        \n
+        \nAktifkan Tours Kesulitan Tempur Insane:\n
+        Selesai semua wisata Tempur Keras
+    </string>
+    <string name="uls_teenage">
+        \nCatatan Penting : Masukan kode Di bawah dibagian " Password " di menu Options\n
+        \nMeningkatkan Serangan Leo - LMLSD\n
+        \nMeningkatkan Serangan Raphael - RDSRL\n
+\nMeningkatkan Serangan Mikey - MSRMM\n
+\nKostum Pahlawan Super untuk Mikey Pada menu Options,
+masukan kode password RRLMD, Untuk menggunakan kostum ini tahan L1 atau R1 ketika memilih Michaelangelo.\n
+\nKostum Alternatif untuk Raphael - DMDML\n
+\nKostum Alternatif untuk Leonardo - LDMSR\n
+\nKostum Alternatif untuk untuk Michaelangelo - RRLMD\n
+\nKostum Alternatif untuk Donatello - DDSMS\n
+\nMeningkatkan Kekuatan untuk Raphael - RDSRL\n
+\nMeningkatkan Kekuatan untuk Leonardo - LMLSD\n
+\nMeningkatkan Kekuatan untuk Donatello - DRLDS\n
+\nMeningkatkan Pertahanan untuk Leonardo - MRLLM\n
+\nMeningkatkan Pertahanan untuk Donatello - SSSMR\n
+\nMeningkatkan Pertahanan untuk Michaelangelo - MRRML\n
+\nMeningkatkan Pertahanan untuk Raphael - LRMDS\n
+\nMeningkatkan Pertahanan untuk Michaelangelo - MSRMM\n
+\nMengubah Efek Suara - SMMRS\n
+\nMeningkatkan Kekuatan (Double) untuk Raphael - SLDSM atau MSLLR\n
+\nMeningkatkan Kekuatan (Double) untuk Donatello - DMDRS\n
+\nMeningkatkan Kekuatan (Double) untuk Michaelangelo - MMSLR\n
+\nMeningkatkan Kekuatan (Double) untuk Leonardo - LSLSR\n
+\nSemua Makanan Menjadi Pizza (Michaelangelo) - DRDSS\n
+\nShurikens Tidak Terbatas untuk Leonardo - SMRDM\n
+\nMembuka "Playmates Toy" - LSDRM\n
+\nMembuka "Splinter" untuk Modus Story - MSRLS\n
+    </string>
+    <string name="uls_ben10">
+        \n(CHEAT)\n
+        Cannonbolt, Cannonbolt, Fourarms, Heatblast
+        \n(EFEK)\n
+        Dark Heroes
+        \n
+        \n(CHEAT)\n
+        Wildvine, Fourarms, Heatblast, Cannonbolt
+        \n(EFEK)\n
+        DNA Force
+        \n
+        \n(CHEAT)\n
+        XLR8, Heatblast, Wildvine, Fourarms
+        \n(EFEK)\n
+        Tak Terkalahkan
+        \n
+        \n(CHEAT)\n
+        Cannonbolt, Heatblast, Wildvine, Fourarms
+         \n(EFEK)\n
+        Kontrol utama
+        \n
+        \n(CHEAT)\n
+        Wildvine, Fourarms, Heatblast, Wildvine
+        \n(EFEK)\n
+        Buka semua alien
+        \n
+        \n(CHEAT)\n
+        Cannonbolt, Heatblast, Fourarms, Heatblast
+         \n(EFEK)\n
+        Buka Combo
+        \n
+        \n(CHEAT)\n
+        Heatblast, XLR8, XLR8, Cannonbolt
+        \n(EFEK)\n
+        Buka lokasi peta
+    </string>
 </resources>

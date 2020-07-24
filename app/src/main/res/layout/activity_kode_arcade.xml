@@ -1,6 +1,240 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Kode_Arcade">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="472dp"
+        android:layout_height="169dp"
+        android:src="@drawable/stiklogo"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.662" />
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="74dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_baseline_arrow_back_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="359dp"
+        android:layout_height="448dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="52dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            android:orientation="horizontal"
+            android:paddingBottom="30dp">
+
+            <LinearLayout
+                android:id="@+id/tekken"
+                android:layout_width="143dp"
+                android:layout_height="118dp"
+                android:background="@drawable/poloshitam"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="136dp"
+                    android:layout_height="77dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/backgroundstik" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="TEKKEN5"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/nfsunderground"
+                android:layout_width="143dp"
+                android:layout_height="118dp"
+                android:layout_marginLeft="50dp"
+                android:background="@drawable/poloshitam"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="136dp"
+                    android:layout_height="77dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/backgroundstik" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="NFSUNDERGROUND"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp" />
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" />
+            </ScrollView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="30dp">
+
+            <LinearLayout
+                android:id="@+id/devil"
+                android:layout_width="143dp"
+                android:layout_height="118dp"
+                android:background="@drawable/poloshitam"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="136dp"
+                    android:layout_height="77dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/backgroundstik" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="DEVILMAYCRAY3"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ultimate"
+                android:layout_width="143dp"
+                android:layout_height="118dp"
+                android:layout_marginLeft="50dp"
+                android:background="@drawable/poloshitam"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="136dp"
+                    android:layout_height="77dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/backgroundstik" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="ULTIMATESPIDERMAN"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp" />
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" />
+            </ScrollView>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="30dp">
+
+            <LinearLayout
+                android:id="@+id/teenage"
+                android:layout_width="143dp"
+                android:layout_height="118dp"
+                android:background="@drawable/poloshitam"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="136dp"
+                    android:layout_height="77dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/backgroundstik" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="TEENAGEMUTANT"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ben10"
+                android:layout_width="143dp"
+                android:layout_height="118dp"
+                android:layout_marginLeft="50dp"
+                android:background="@drawable/poloshitam"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="136dp"
+                    android:layout_height="77dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/backgroundstik" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingTop="10dp"
+                    android:text="BEN10"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

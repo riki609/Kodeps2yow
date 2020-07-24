@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769706710962",
+    "firebase_url": "https://kodeps2yow.firebaseio.com",
+    "project_id": "kodeps2yow",
+    "storage_bucket": "kodeps2yow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769706710962:android:bb17d8b685e1923761b6ab",
+        "android_client_info": {
+          "package_name": "com.rikiahmadfauzi.kodeps2yow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769706710962-urff5ume0asp714cja3djc8io2nv9qj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6tZ74w0AGMT4XXXumKbGe5U3wcZJ72Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769706710962-urff5ume0asp714cja3djc8io2nv9qj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

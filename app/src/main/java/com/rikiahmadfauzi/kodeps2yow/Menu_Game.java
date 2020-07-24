@@ -11,6 +11,12 @@ public class Menu_Game extends AppCompatActivity {
 
     Button button7,button8,button9;
 
+     /*
+    Nama : Riki Ahmad Fauzi
+    Kelas : IF4
+    Nim : 10117153
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

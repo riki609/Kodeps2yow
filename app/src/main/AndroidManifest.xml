@@ -32,6 +32,15 @@
             <activity android:name=".Mortal"/>
             <activity android:name=".GodOfWar"/>
             <activity android:name=".Resident"/>
+            <activity android:name=".Kode_Arcade"/>
+            <activity android:name=".Tekken5"/>
+            <activity android:name=".Nfsunderground"/>
+            <activity android:name=".Devil"/>
+            <activity android:name=".Ultimatespiderman"/>
+            <activity android:name=".Teenageninja"/>
+            <activity android:name=".Ben10"/>
+            <activity android:name=".Login"/>
+            <activity android:name=".Daftar"/>
             <activity android:name=".MainActivity"></activity>
     </application>
 
